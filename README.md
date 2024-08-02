@@ -26,5 +26,6 @@ Useful resources.
   > Price from $4.25/month
 
 - [Как хостить телеграм-бота (и другие скрипты на Python) на Repl.it бесплатно 24/7](https://habr.com/ru/articles/709314/)
-  - [Repl.it]()
-  - [UptimeRobot](https://uptimerobot.com/)
+  > [Repl.it]()
+  >
+  > [UptimeRobot](https://uptimerobot.com/)
