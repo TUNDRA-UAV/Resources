@@ -8,8 +8,9 @@ Useful resources.
 - [discord.py](https://discordpy.readthedocs.io/en/latest/)
 
   > discord.py is a modern, easy to use, feature-rich, and async ready API wrapper for Discord.
+  > 
+  > [Discord Bot - Video 1](https://youtu.be/nWRIsX23FnA?si=lkPwV_ORYm6WA-A1)
 
-[Video 1](https://youtu.be/nWRIsX23FnA?si=lkPwV_ORYm6WA-A1)
 
 ## Python Hosting
 
